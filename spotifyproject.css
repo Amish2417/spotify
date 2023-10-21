@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 1471.435px;
+    height: 1109.889px;
+   
+}
+#first{
+width: 371px;
+height: 982px;
+flex-shrink: 0;
+background: #000;
+}
+.anish{
+    color: #FFF;
+    font-family: DM Sans;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: -1.14px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    display: flex; 
+    gap: 10px;
+    align-items: center;
+   
+}
+#second{
+    margin-top: 30px;
+}
+#fifth>img{
+    border: 2px solid red;
+    color: #000000;
+    background-color: #FFF;
+    width: 20px;
+    height: 20px;
+
+}
+#sixth>img{
+    width: 10px;
+  height: 10px;
+  position: absolute;
+  padding: 10px;
+ 
+}
+#sixth>div{
+    width: 30px;
+    height: 30px;
+   background-color: rgb(171, 153, 242);
+    
+    
+}
+#seventh>div{
+    width: 30px;
+    height: 30px;
+}
+#seventh>img{
+    width: 10px;
+    height: 10px;
+    position: absolute;
+    padding: 10px;
+    background: #004638
+}
+.songs{
+    width: 362px;
+    height: 100px;
+    background: #303030;
+    border-radius: 4px;
+
+}
+#songslist{
+    width:1337;
+    height: 643;
+    background-color: rgba(34, 34, 34,1);
+    display: flex;
+    align-items: center;
+    border:3px solid green;
+    position: relative;
+    
+    
+}
+
+
+.box{
+    width: 207px;
+    height: 207px;
+    background-color: rgba(0,0,0,1);
+    position: absolute;
+    top: 437px;
+
+}
+
+
+
